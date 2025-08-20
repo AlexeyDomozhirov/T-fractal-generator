@@ -86,17 +86,17 @@ The T-Fractal Generator when launched can be used in ```interactive mode``` that
 ## Examples
 Fractals examples, also note that the names of the image files represent the settings used for generation.
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/4%2C4%202%5E7%20%233af03a23%201001011001101001.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/.4%2C4%202%5E7%20%23fc553234%200000111001100000.png)
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/4%2C4%202%5E7%20%23fc553234%200000111001100000.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/4%2C4%202%5E7%20%233af03a23%201001011001101001.png)
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/8%2C8%205%5E3%20%238a32fc54%201010010101011010101001010101101001011010101001010101101010100101.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/8%2C8%205%5E3%20%238a32fc54%201010010101011010101001010101101001011010101001010101101010100101.png)
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/9%2C9%202%5E6%20%2332c6fc44%20000000000010000010001101100001000100000010000001000100001101100010000010100000000.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/9%2C9%202%5E6%20%2332c6fc44%20000000000010000010001101100001000100000010000001000100001101100010000010100000000.png)
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/9%2C9%202%5E6%20%23ab32fc54%20010010010100000001001010100000000000101000101000000000001010100100000001010010010.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/9%2C9%202%5E6%20%23ab32fc54%20010010010100000001001010100000000000101000101000000000001010100100000001010010010.png)
 
-![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4891255eef25428ce2cee0b27c9cebfafd0bef40/examples/9%2C9%203%5E4%20%238a32fc54%20010010010100000001001010100000000000101000101000000000001010100100000001010010010.png)
+![image](https://github.com/AlexeyDomozhirov/T-fractal-generator/blob/4c55d58076a99da64f027a6e0f51810e8be2750a/examples/9%2C9%203%5E4%20%238a32fc54%20010010010100000001001010100000000000101000101000000000001010100100000001010010010.png)
 ## Contributing
 Feel free to share your ideas, report issues, or suggest improvements by opening an issue or submitting a pull request on the GitHub repository
 ## Platform Support
