@@ -21,7 +21,7 @@ A T-fractal is a pattern created by overlaying grids of rectangles. Each rectang
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/t-fractal-generator.git
+   git clone https://github.com/AlexeyDomozhirov/T-fractal-generator.git
    ```
 2. Navigate to the project directory:
 3. Build the project using Cabal:
