@@ -28,7 +28,6 @@ A T-fractal is a pattern created by overlaying grids of rectangles. Each rectang
    ```bash
    cabal run
    ```
-   Note: During the build process, Cabal may require certain binary files (e.g., SDL2 libraries). These are typically pre-installed on most systems. If they are missing, their installation is simple and should not pose a problem.
 
 ## Usage
 
