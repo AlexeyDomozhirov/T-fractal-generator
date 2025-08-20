@@ -1,0 +1,43 @@
+cabal-version:      3.0
+name:               TFractalGenerator
+version:            0.1.0.0
+synopsis:           simple T like fractal generator
+
+license:            MIT
+license-file:       LICENSE
+author:             alexey
+maintainer:         alexei-2006@bk.ru
+
+category:           Graphics
+build-type:         Simple
+extra-doc-files:    CHANGELOG.md
+
+
+common warnings
+    ghc-options: -Wall
+
+executable TFractalGenerator
+    import:           warnings
+    main-is:          Main.hs
+    build-depends:      base          ^>= 4.17.2.1 
+                      , bytestring    ^>= 0.11.3.1
+                      , matrix        ^>= 0.3.6.4
+                      , sdl2          ^>= 2.5.5.0
+                      , text          ^>= 2.0.2
+                      , vector        ^>= 0.13.2.0
+                      , mtl           ^>= 2.3.1
+    hs-source-dirs:   app
+    other-modules:    Fractal.Generator
+                      , Fractal.SDL
+                      , Fractal.Type
+                      
+                      , SDL.Settings.Type
+                      , SDL.Settings.Parse
+                      , SDL.Settings.Export
+                      , SDL.Draw , SDL.Event
+                      , SDL.Loop , SDL.State
+                      
+                      , Utils
+    default-extensions: ImportQualifiedPost 
+
+    default-language: Haskell2010
